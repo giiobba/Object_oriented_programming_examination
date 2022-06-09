@@ -1,12 +1,812 @@
-giu 09, 2022 1:12:52 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+giu 03, 2022 10:35:23 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
 INFORMAZIONI: searchEvents >>>>
-giu 09, 2022 1:12:52 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+giu 03, 2022 10:35:23 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
 INFORMAZIONI: searchEvents -- call getRequest
-giu 09, 2022 1:12:52 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+giu 03, 2022 10:35:23 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
 INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
-giu 09, 2022 1:12:52 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+giu 03, 2022 10:35:23 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
 INFORMAZIONI: searchEvents -- call client.newCall
-giu 09, 2022 1:12:55 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+giu 03, 2022 10:35:25 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
 INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
-giu 09, 2022 1:12:55 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+giu 03, 2022 10:35:25 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 10:51:57 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 10:51:57 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 10:51:57 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 10:51:57 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 10:51:58 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 10:51:58 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 11:00:00 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 11:00:00 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 11:00:00 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 11:00:00 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 11:00:01 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 11:00:01 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 11:00:46 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 11:00:46 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 11:00:46 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 11:00:46 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 11:00:47 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 11:00:47 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 11:05:33 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 11:05:33 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 11:05:33 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 11:05:33 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 11:05:34 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 11:05:34 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 11:14:15 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 11:14:15 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 11:14:15 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 11:14:15 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 11:14:16 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 11:14:16 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 11:15:49 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 11:15:49 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 11:15:49 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 11:15:49 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 11:15:50 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 11:15:50 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 11:26:19 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 11:26:19 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 11:26:19 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 11:26:19 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 11:26:20 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 11:26:20 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 11:26:50 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 11:26:50 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 11:26:50 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 11:26:50 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 11:26:51 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 11:26:51 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 11:27:57 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 11:27:57 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 11:27:57 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 11:27:57 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 11:27:58 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 11:27:58 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 11:41:50 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 11:41:50 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 11:41:50 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 11:41:50 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 11:41:51 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 11:41:51 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 11:42:43 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 11:42:43 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 11:42:43 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 11:42:43 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 11:42:44 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 11:42:44 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 11:49:26 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 11:49:26 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 11:49:26 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 11:49:26 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 11:49:27 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 11:49:27 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 11:49:58 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 11:49:58 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 11:49:58 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 11:49:58 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 11:49:59 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 11:49:59 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 12:09:14 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 12:09:14 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 12:09:14 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 12:09:14 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 12:09:15 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 12:09:15 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 12:11:48 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 12:11:48 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 12:11:48 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 12:11:48 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 12:11:49 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 12:11:49 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 12:13:33 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 12:13:33 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 12:13:33 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 12:13:33 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 12:13:34 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 12:13:34 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 12:19:09 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 12:19:09 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 12:19:09 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 12:19:09 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 12:19:10 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 12:19:10 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 12:31:17 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 12:31:17 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 12:31:17 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 12:31:17 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 12:31:18 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 12:31:18 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 12:35:41 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 12:35:42 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 12:35:42 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 12:35:42 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 12:35:43 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 12:35:43 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 12:49:10 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 12:49:10 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 12:49:10 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 12:49:10 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 12:49:11 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 12:49:11 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 12:51:32 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 12:51:32 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 12:51:32 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 12:51:32 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 12:51:33 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 12:51:33 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 12:56:15 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 12:56:15 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 12:56:15 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 12:56:15 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 12:56:16 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 12:56:16 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 12:58:38 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 12:58:38 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 12:58:38 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 12:58:38 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 12:58:39 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 12:58:39 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 12:59:18 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 12:59:18 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 12:59:18 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 12:59:18 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 12:59:19 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 12:59:19 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 1:00:01 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 1:00:01 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 1:00:01 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 1:00:01 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 1:00:02 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 1:00:02 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 1:11:07 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 1:11:07 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 1:11:07 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 1:11:07 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 1:11:08 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 1:11:08 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 1:13:08 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 1:13:08 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 1:13:08 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 1:13:08 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 1:13:09 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 1:13:09 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 1:15:59 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 1:15:59 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 1:15:59 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 1:15:59 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 1:16:00 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 1:16:00 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 1:16:38 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 1:16:39 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 1:16:39 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 1:16:39 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 1:16:40 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 1:16:40 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 1:50:13 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 1:50:13 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 1:50:13 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 1:50:13 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 1:50:15 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 1:50:15 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 1:51:39 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 1:51:39 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 1:51:39 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 1:51:39 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 1:51:40 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 1:51:40 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 2:00:39 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 2:00:39 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 2:00:40 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 2:00:40 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 2:00:40 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 2:00:40 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 2:01:04 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 2:01:04 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 2:01:04 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 2:01:04 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 2:01:05 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 2:01:05 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 2:13:11 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 2:13:11 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 2:13:11 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 2:13:11 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 2:13:12 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 2:13:12 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 2:17:29 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 2:17:29 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 2:17:29 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 2:17:29 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 2:17:30 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 2:17:30 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 2:22:11 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 2:22:11 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 2:22:11 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 2:22:11 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 2:22:12 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 2:22:12 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 3:47:51 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 3:47:52 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 3:47:52 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 3:47:52 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 3:47:53 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&latlong=34.0522%2C-118.2437&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 3:47:53 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 3:51:27 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 3:51:27 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 3:51:27 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&countryCode=it&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 3:51:27 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 3:51:28 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&countryCode=it&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 3:51:28 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 3:52:18 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 3:52:18 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 3:52:18 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&countryCode=uk&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 3:52:18 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 3:52:19 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&countryCode=uk&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 3:52:19 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 3:56:54 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 3:56:55 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 3:56:55 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&countryCode=uk&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 3:56:55 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 3:56:56 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&countryCode=uk&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 3:56:56 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 3:57:51 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 3:57:51 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 3:57:51 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 3:57:51 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 3:57:52 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 3:57:52 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 4:00:01 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 4:00:02 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 4:00:02 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=50&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 4:00:02 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 4:00:03 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=50&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 4:00:03 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 4:01:46 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 4:01:46 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 4:01:46 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=16&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 4:01:46 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 4:01:47 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=16&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 4:01:47 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 4:07:09 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 4:07:09 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 4:07:09 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=16&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 4:07:09 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 4:07:10 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=16&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 4:07:10 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 03, 2022 4:09:12 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 03, 2022 4:09:12 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 03, 2022 4:09:12 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=16&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 03, 2022 4:09:12 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 03, 2022 4:09:13 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=16&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 03, 2022 4:09:13 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 10:34:24 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 10:34:24 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 10:34:24 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=16&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 10:34:24 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 10:34:26 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=16&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 10:34:26 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 10:58:21 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 10:58:21 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 10:58:21 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=16&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 10:58:21 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 10:58:22 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=16&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 10:58:22 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 11:01:08 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 11:01:08 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 11:01:08 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 11:01:08 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 11:01:10 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 11:01:10 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 11:01:23 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 11:01:23 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 11:01:23 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=1000&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 11:01:23 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 11:01:24 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=400, message=Bad Request, url=https://app.ticketmaster.com/discovery/v2/events?size=1000&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 11:01:24 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 11:01:46 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 11:01:46 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 11:01:46 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=500&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 11:01:46 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 11:01:48 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=400, message=Bad Request, url=https://app.ticketmaster.com/discovery/v2/events?size=500&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 11:01:48 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 11:02:06 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 11:02:06 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 11:02:06 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=300&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 11:02:06 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 11:02:08 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=400, message=Bad Request, url=https://app.ticketmaster.com/discovery/v2/events?size=300&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 11:02:08 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 11:02:25 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 11:02:25 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 11:02:25 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=200&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 11:02:25 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 11:04:03 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 11:04:03 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 11:04:03 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=200&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 11:04:03 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 11:04:05 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=200&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 11:04:05 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 11:26:28 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 11:26:28 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 11:26:28 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 11:26:28 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 11:26:29 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 11:26:29 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 11:28:55 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 11:28:55 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 11:28:55 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 11:28:55 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 11:28:56 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 11:28:56 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 11:29:41 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 11:29:42 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 11:29:42 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 11:29:42 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 11:29:43 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 11:29:43 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 11:33:00 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 11:33:00 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 11:33:00 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 11:33:00 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 11:33:01 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 11:33:01 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 11:33:42 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 11:33:42 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 11:33:42 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=8&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 11:33:42 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 11:33:43 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=8&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 11:33:43 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 11:44:15 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 11:44:15 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 11:44:15 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 11:44:15 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 11:44:16 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 11:44:16 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 11:46:40 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 11:46:40 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 11:46:40 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 11:46:40 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 11:46:42 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 11:46:42 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 11:57:10 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 11:57:10 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 11:57:10 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 11:57:10 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 11:57:11 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 11:57:11 AM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 12:15:07 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 12:15:07 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 12:15:07 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 12:15:07 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 12:15:10 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 12:15:10 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 12:38:36 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 12:38:36 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 12:38:36 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 12:38:36 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 12:38:38 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 12:38:38 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 1:02:50 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 1:02:50 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 1:02:50 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 1:02:50 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 1:02:52 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 1:02:52 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 1:09:26 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 1:09:26 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 1:09:26 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 1:09:26 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 1:09:28 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 1:09:28 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 1:19:38 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 1:19:38 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 1:19:38 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 1:19:38 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 1:19:40 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 1:19:40 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents <<<<
+giu 06, 2022 1:21:05 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents >>>>
+giu 06, 2022 1:21:05 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call getRequest
+giu 06, 2022 1:21:05 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- getRequest -- Request{method=GET, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK, headers=[User-Agent:Ticketmaster Discovery Java SDK/0.1.8]}
+giu 06, 2022 1:21:05 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- call client.newCall
+giu 06, 2022 1:21:06 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
+INFORMAZIONI: searchEvents -- client.newCall -- Response{protocol=http/1.1, code=200, message=OK, url=https://app.ticketmaster.com/discovery/v2/events?size=100&countryCode=uk%2Cde%2Cfr&apikey=55VBfAWOGW4lK8A28ZUjV7VAYmQYX9pK}
+giu 06, 2022 1:21:06 PM com.ticketmaster.api.discovery.DiscoveryApi searchEvents
 INFORMAZIONI: searchEvents <<<<
